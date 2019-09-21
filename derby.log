@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sat Sep 14 09:03:24 KST 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-016d-2d14-d8d9-000015f34b68 
+on database directory D:\project\cloud_native_java_project\target\demoDB with class loader ClassRealm[plugin>com.querydsl:querydsl-maven-plugin:4.2.1, parent: sun.misc.Launcher$AppClassLoader@18b4aac2] 
+Loaded from file:/C:/Users/kimyongyeon/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_151-b12
+user.dir=D:\project\cloud_native_java_project
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
