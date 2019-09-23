@@ -1,0 +1,10 @@
+#eureka client
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka/
+
+#turbine server
+turbine:
+  appConfig: msa-coffee-order-service
+  clusterNameExpression: new String("default")
